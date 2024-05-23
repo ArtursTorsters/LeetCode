@@ -16,8 +16,6 @@ type ToBeOrNotToBe = {
 };
 
 
-
-
 function expect(val: any): ToBeOrNotToBe {
     return {
         toBe: (toBeVal: any) => {
