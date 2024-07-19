@@ -1,3 +1,5 @@
 # LeetCode
 
-These are my solutions to leetcode problems using JS or TS ( for now)
+These are my solutions to Leetcode 30 days or Javascript
+
+Javascript / Typescript
