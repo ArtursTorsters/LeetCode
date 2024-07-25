@@ -1,5 +1,5 @@
 # LeetCode
 
-These are my solutions to Leetcode 30 days or Javascript
+These are my solutions to Leetcode problems
 
-Javascript / Typescript
+Javascript / Typescript / PHP / C++
