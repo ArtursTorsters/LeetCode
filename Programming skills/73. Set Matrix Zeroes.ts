@@ -3,12 +3,20 @@
 
 
 
-
 function setZeroes(matrix: number[][]): void {
 
     let flatArray = matrix.flat();
     console.log(flatArray)
     // let flag = 
+    
+    // iterate over array until find 0 
+    // 
+    for (let i = 0; i < flatArray.length; i++) {
+        if(flatArray[i] === 0){
+            console.log("found zero")
+            
+        }
+    }
         
         return 
     };

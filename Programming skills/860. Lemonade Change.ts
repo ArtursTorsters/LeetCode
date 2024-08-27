@@ -27,8 +27,10 @@ function lemonadeChange(bills: number[]): boolean {
             } else {
                 return false; // Cannot give $15 change
             }
-        } else if (bill === 30) {
+        } else if (bill === 10 && 10) {
+            return false
     }
     
-    return false; // Successfully gave change for all transactions
+    return true; // Successfully gave change for all transactions
+}
 }
